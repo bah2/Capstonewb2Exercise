@@ -55,7 +55,7 @@ console.log("Number(" + d + "): " + d1)
 // var c = "402 Stevens";
 // var d = "Number 5 ";
 
-// String to Unitary +
+// String to Unitary
 var a4 = +a
 console.log("\n"+"Unitary+(" + a + "): " + a1)
 var b4 = +b
